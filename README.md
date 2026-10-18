@@ -8,19 +8,17 @@
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
 </div>
 
@@ -30,14 +28,16 @@
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="30" alt="cloudflare logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
 </div>
 
 ###
@@ -58,8 +58,7 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JacyKu/JacyKu/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Stats%20:3" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JacyKu&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JacyKu&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/JacyKu/JacyKu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages%20:3" height="150" alt="languages graph"  />
 </div>
 
